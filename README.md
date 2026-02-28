@@ -15,6 +15,8 @@ Mardanov, A. V., Eldarov, M. A., Beletsky, A. V., Tanashchuk, T. N., Kishkovskay
 
 Institute of Bioengineering, Research Center of Biotechnology of RAS. (2019). Saccharomyces cerevisiae strain:I-329 (brewer's yeast). *NCBI*. https://www.ncbi.nlm.nih.gov/bioproject/PRJNA592304
 
+Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, *14*, 417-419. https://doi.org/10.1038/nmeth.4197
+
 Saccharomyces Genome Database (2014). *Saccharomyces cerivisiae* - Genome assembly R64. *NCBI*. https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000146045.2/
 
 Stephens, M. (2017). False discovery rates: a new deal. *Biostatistics*, *18*(2), 275-294. https://doi.org/10.1093/biostatistics/kxw041
