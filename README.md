@@ -8,6 +8,8 @@ The raw data for the *Saccharomyces cerevisiae* I-329 strain originated from the
 Differential expression analysis was conducted on the quantified replicates in R (v4.5.2) using the DESeq2 pseudoaligner (v1.50.2) (Love et al., 2014, Rdocumentation, n.d.).  The differences in gene expression were evaluated statistically using pairwise comparisons between experimental groups according to the multiple-comparison adjusted p-values (padj), using the early biofilm as the primary reference (thin vs. early & mature vs. early) and the thin biofilm as the secondary reference (mature vs. thin).  For visualizations (heatmap, MA plot, volcano plot per comparison), shrinkage was applied to the log2FoldChange (LFC) of genes for each comparison using the ashr shrinkage method (Stephens, 2017).  In particular, for the heatmaps, the top 20 genes were selected based on p-value for visualization.  Lastly, functional annotation and comparison was also conducted in R using the clusterProfiler (v4.18.4), enrichplot (v1.30.4), and org.Sc.sgd.db (v3.22.0) packages (Xu et al., 2024, Yu et al., 2012, Carlson, 2025).  The genes were ranked in order by Wald statistic and analyzed using Gene Ontology (GO)-enriched Fast Gene Set Enrichment Analysis (FGSEA) by biological processes, with a p-value cutoff of 0.05 (Ashburner et al., 2000, The Gene Ontology Consortium, 2025, Thomas et al., 2021, Korotkevich et al., 2016).  Upregulated and downregulated gene sets were compared and visualized separately using dot plots and ridge plots.
 
 ## Results
+![Velum PCA Plot](Assignment_2_Figures/Velum_PCA_Plot.jpeg
+
 
 ## Discussion
 
