@@ -18,6 +18,8 @@ Differential expression analysis was conducted on the quantified replicates in R
 <img width="1800" height="797" alt="Velum_mature_early_heatmap" src="https://github.com/user-attachments/assets/db419954-5de8-4b4e-bdb9-6a21392beca4" />
 <img width="1782" height="752" alt="Velum_mature_thin_heatmap" src="https://github.com/user-attachments/assets/80ff6a98-5725-4969-83a6-2ac75e32d0aa" />
 
+**Figure 2**: Heat maps of differential expression of log2FoldChange (LFC) in genes between different stages of Velum formation, using early biofilm as a primary reference and thin biofilm as a secondary reference.  Pairwise comparisons were performed between **(a)** thin and early stages, **(b)** mature and early stages, and **(c)** mature and thin stages.  LFC shrinkage was applied to all genes before the top statistically significant 20 genes shown were selected by adjusted p-values (padj < 0.05).  Red indicates more upregulated genes in a replicate relative to the reference stage, whereas blue indicates more downregulated genes in a replicate.
+
 <img width="1765" height="707" alt="Velum_thin_early_MA_plot" src="https://github.com/user-attachments/assets/52114f8d-bf2b-40cc-b682-9386ef785b60" />
 <img width="1750" height="665" alt="Velum_mature_early_MA_plot" src="https://github.com/user-attachments/assets/030c826b-cfc8-44ea-8bf1-c5b16b31e1c1" />
 <img width="1732" height="618" alt="Velum_mature_thin_MA_plot" src="https://github.com/user-attachments/assets/80e94f7f-55a0-41ef-ae40-4b7eaa09d2c0" />
