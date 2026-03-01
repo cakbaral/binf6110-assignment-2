@@ -12,7 +12,6 @@ Differential expression analysis was conducted on the quantified replicates in R
 <img width="1852" height="935" alt="Velum_PCA_Plot" src="https://github.com/user-attachments/assets/dc4ea8c4-a0b4-46d3-a70e-48e2af02b7d3" />
 **Figure 1**: PCA plot of *S. cerivisiae* replicates at three different stages of Velum biofilm development: early, thin, and mature.  The replicates were quantified using Salmon v.10.3 and analyzed using DESeq2 v1.50.2. 
 
-
 <img width="1817" height="842" alt="Velum_thin_early_heatmap" src="https://github.com/user-attachments/assets/b2a7a3a3-08bf-4131-a96c-c00a16b53b76" />
 <img width="1800" height="797" alt="Velum_mature_early_heatmap" src="https://github.com/user-attachments/assets/db419954-5de8-4b4e-bdb9-6a21392beca4" />
 <img width="1782" height="752" alt="Velum_mature_thin_heatmap" src="https://github.com/user-attachments/assets/80ff6a98-5725-4969-83a6-2ac75e32d0aa" />
