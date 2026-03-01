@@ -20,6 +20,8 @@ Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change
 
 Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, *14*, 417-419. https://doi.org/10.1038/nmeth.4197
 
+Rdocumentation. (n.d.). results: Extract results from a DESeq analysis. https://www.rdocumentation.org/packages/DESeq2/versions/1.12.3/topics/results
+
 Saccharomyces Genome Database (2014). *Saccharomyces cerivisiae* - Genome assembly R64. *NCBI*. https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000146045.2/
 
 Stephens, M. (2017). False discovery rates: a new deal. *Biostatistics*, *18*(2), 275-294. https://doi.org/10.1093/biostatistics/kxw041
