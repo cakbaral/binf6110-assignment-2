@@ -36,11 +36,11 @@ Taking a closer look at Figure 1, the replicates appeared to form three distinct
 
 **Figure 4**: Volcano plots of the log2FoldChange (LFC), with shrinkage, in differential gene expression and regulation of pairwise comparisons between **(a)** thin and early stages, **(b)** mature and early stages, and **(c)** mature and thin stages.  Using early biofilm as a primary reference and thin biofilm as a secondary reference, the LFC was plotted against the negative log transformed adjusted p-values (-log10 p-value).  Upregulated genes (*padj* < 0.05 and *log2FoldChange* > 1) are indicated by clustered red data points, while downregulated genes (*padj* < 0.05 and *log2FoldChange* < -1) are indicated by the clustered blue data points.  Non-significant genes (*padj* > 0.05, |*log2FoldChange*| < 1) were clustered in grey in the centre.
 
+### Functional annotation and GO-GSEA comparison
 <img width="1920" height="1112" alt="Velum_thin_early_dotplot" src="https://github.com/user-attachments/assets/09a47cd6-dfaf-4db7-9d53-8e4e04fec247" />
 <img width="1920" height="1112" alt="Velum_mature_early_dotplot" src="https://github.com/user-attachments/assets/275ba667-0f10-47ed-a73e-354b65937aa5" />
 <img width="1920" height="1112" alt="Velum_mature_thin_dotplot" src="https://github.com/user-attachments/assets/59ed0c12-64c2-41fe-b41b-7a46c4802511" />
 
-### Functional annotation and GO-GSEA comparison
 **Figure 5**: Dot plots of Gene Ontology (GO) enrichment terms for Fast Gene Set Enrichment Analysis (FGSEA) for each pairwise comparison: **(a)** thin and early stages, **(b)** mature and early stages, and **(c)** mature and thin stages.  The genes were ranked based on Wald statistic and categorized by Biological Process (BP) ontology.  Each plot is further split into two separate categories to distinguish expression level of terms: activated (for upregulation) and suppressed (for downregulation), relative to the primary (early biofilm) or secondary (thin biofilm) reference.  Dot size reflects the number of genes identified for each term, while dot colour represents the statistical significance according to adjusted p-values, with a cutoff of *padj* < 0.05.  Larger dot coloured in red for a BP term suggest stronger evidence of greater differential expression.
 
 <img width="1920" height="1112" alt="Velum_thin_early_ridgeplot" src="https://github.com/user-attachments/assets/3c4774db-fbfb-435b-80b9-c2f0e56b7f66" />
