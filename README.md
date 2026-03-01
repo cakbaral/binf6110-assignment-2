@@ -11,7 +11,7 @@ Differential expression analysis was conducted on the quantified replicates in R
 
 <img width="1852" height="935" alt="Velum_PCA_Plot" src="https://github.com/user-attachments/assets/dc4ea8c4-a0b4-46d3-a70e-48e2af02b7d3" />
 
-**Figure 1**: PCA plot of *S. cerivisiae* transcriptome data.  Velum biofilm stage (PC1) explained 67% of the variance, while sample structure (PC2) explained 26% of the variance.  The replicates were clustered according to the developmental stages of Velum biofilm they were observed at, indicating mostly clear distinctions in profiles between groups. 
+**Figure 1**: PCA plot of *S. cerivisiae* transcriptome data.  Velum biofilm stage (PC1) explained 67% of the variance, while sample structure (PC2) likely explained 26% of the variance.  The replicates were clustered according to the developmental stages of Velum biofilm they were observed at, indicating mostly clear distinctions in profiles between groups. 
 
 
 <img width="1817" height="842" alt="Velum_thin_early_heatmap" src="https://github.com/user-attachments/assets/b2a7a3a3-08bf-4131-a96c-c00a16b53b76" />
