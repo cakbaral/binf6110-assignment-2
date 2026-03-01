@@ -8,8 +8,28 @@ The raw data for the *Saccharomyces cerevisiae* I-329 strain originated from the
 Differential expression analysis was conducted on the quantified replicates in R (v4.5.2) using the DESeq2 pseudoaligner (v1.50.2) (Love et al., 2014, Rdocumentation, n.d.).  The differences in gene expression were evaluated statistically using pairwise comparisons between experimental groups according to the multiple-comparison adjusted p-values (padj), using the early biofilm as the primary reference (thin vs. early & mature vs. early) and the thin biofilm as the secondary reference (mature vs. thin).  For visualizations (heatmap, MA plot, volcano plot per comparison), shrinkage was applied to the log2FoldChange (LFC) of genes for each comparison using the ashr shrinkage method (Stephens, 2017).  In particular, for the heatmaps, the top 20 genes were selected based on p-value for visualization.  Lastly, functional annotation and comparison was also conducted in R using the clusterProfiler (v4.18.4), enrichplot (v1.30.4), and org.Sc.sgd.db (v3.22.0) packages (Xu et al., 2024, Yu et al., 2012, Carlson, 2025).  The genes were ranked in order by Wald statistic and analyzed using Gene Ontology (GO)-enriched Fast Gene Set Enrichment Analysis (FGSEA) by biological processes, with a p-value cutoff of 0.05 (Ashburner et al., 2000, The Gene Ontology Consortium, 2025, Thomas et al., 2021, Korotkevich et al., 2016).  Upregulated and downregulated gene sets were compared and visualized separately using dot plots and ridge plots.
 
 ## Results
-![Velum PCA Plot](Assignment_2_Figures/Velum_PCA_Plot.jpeg
 
+<img width="1852" height="935" alt="Velum_PCA_Plot" src="https://github.com/user-attachments/assets/dc4ea8c4-a0b4-46d3-a70e-48e2af02b7d3" />
+
+<img width="1817" height="842" alt="Velum_thin_early_heatmap" src="https://github.com/user-attachments/assets/b2a7a3a3-08bf-4131-a96c-c00a16b53b76" />
+<img width="1800" height="797" alt="Velum_mature_early_heatmap" src="https://github.com/user-attachments/assets/db419954-5de8-4b4e-bdb9-6a21392beca4" />
+<img width="1782" height="752" alt="Velum_mature_thin_heatmap" src="https://github.com/user-attachments/assets/80ff6a98-5725-4969-83a6-2ac75e32d0aa" />
+
+<img width="1765" height="707" alt="Velum_thin_early_MA_plot" src="https://github.com/user-attachments/assets/52114f8d-bf2b-40cc-b682-9386ef785b60" />
+<img width="1750" height="665" alt="Velum_mature_early_MA_plot" src="https://github.com/user-attachments/assets/030c826b-cfc8-44ea-8bf1-c5b16b31e1c1" />
+<img width="1732" height="618" alt="Velum_mature_thin_MA_plot" src="https://github.com/user-attachments/assets/80e94f7f-55a0-41ef-ae40-4b7eaa09d2c0" />
+
+<img width="1920" height="1112" alt="Velum_thin_early_volcano" src="https://github.com/user-attachments/assets/f04f2241-205c-4d41-8c57-4dd687ab7ce2" />
+<img width="1920" height="1112" alt="Velum_mature_early_volcano" src="https://github.com/user-attachments/assets/cea936f5-0735-4b1c-a485-86da520a95ec" />
+<img width="1920" height="1112" alt="Velum_mature_thin_volcano" src="https://github.com/user-attachments/assets/d0e6128d-55ca-4207-a31b-ad3c33d4ca8b" />
+
+<img width="1920" height="1112" alt="Velum_thin_early_dotplot" src="https://github.com/user-attachments/assets/09a47cd6-dfaf-4db7-9d53-8e4e04fec247" />
+<img width="1920" height="1112" alt="Velum_mature_early_dotplot" src="https://github.com/user-attachments/assets/275ba667-0f10-47ed-a73e-354b65937aa5" />
+<img width="1920" height="1112" alt="Velum_mature_thin_dotplot" src="https://github.com/user-attachments/assets/59ed0c12-64c2-41fe-b41b-7a46c4802511" />
+
+<img width="1920" height="1112" alt="Velum_thin_early_ridgeplot" src="https://github.com/user-attachments/assets/3c4774db-fbfb-435b-80b9-c2f0e56b7f66" />
+<img width="1920" height="1112" alt="Velum_mature_early_ridgeplot" src="https://github.com/user-attachments/assets/aa0b8bfc-316a-49a3-9802-adef0b0f1cfc" />
+<img width="1920" height="1112" alt="Velum_mature_thin_ridgeplot" src="https://github.com/user-attachments/assets/9fe900b8-af5e-40e4-9598-2ed80b68aaba" />
 
 ## Discussion
 
