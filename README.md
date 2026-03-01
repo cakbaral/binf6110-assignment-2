@@ -30,6 +30,8 @@ Saccharomyces Genome Database (2014). *Saccharomyces cerivisiae* - Genome assemb
 
 Stephens, M. (2017). False discovery rates: a new deal. *Biostatistics*, *18*(2), 275-294. https://doi.org/10.1093/biostatistics/kxw041
 
+Thomas, P. D., Ebert, D., Muruganujan, A., Mushayahama, T., Albou, L. P., & Mi, H. (2021). PANTHER: Making genome‐scale phylogenetics accessible to all. *Protein Science*, *31*(1), 8-22. https://doi.org/10.1002/pro.4218
+
 Xu, S., Hu, E., Cai, Y., Xie, Z., Luo, X., Zhan, L., Tang, W., Wang, Q., Liu, B., Wang, R., Xie, W., Wu, T., Xie, L., & Yu, G. (2024). Using clusterProfiler to characterize multiomics data. *Nature Protocols*, *19*, 3292-3320. https://doi.org/10.1038/s41596-024-01020-z
 
 Yu, G., Wang, L. G., Han, Y., & He, Q. Y. (2012). clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters. *OMICS: A Journal of Integrative Biology*, *16*(5), 284-287. https://doi.org/10.1089/omi.2011.0118
