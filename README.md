@@ -19,9 +19,9 @@ Differential expression analysis was conducted on the quantified replicates in R
 <img width="1750" height="665" alt="Velum_mature_early_MA_plot" src="https://github.com/user-attachments/assets/030c826b-cfc8-44ea-8bf1-c5b16b31e1c1" />
 <img width="1732" height="618" alt="Velum_mature_thin_MA_plot" src="https://github.com/user-attachments/assets/80e94f7f-55a0-41ef-ae40-4b7eaa09d2c0" />
 
-<img width="280" height="162" alt="Velum_thin_early_volcano" src="https://github.com/user-attachments/assets/f04f2241-205c-4d41-8c57-4dd687ab7ce2" />
-<img width="280" height="162" alt="Velum_mature_early_volcano" src="https://github.com/user-attachments/assets/cea936f5-0735-4b1c-a485-86da520a95ec" />
-<img width="280" height="162" alt="Velum_mature_thin_volcano" src="https://github.com/user-attachments/assets/d0e6128d-55ca-4207-a31b-ad3c33d4ca8b" />
+<img width="720" height="416" alt="Velum_thin_early_volcano" src="https://github.com/user-attachments/assets/f04f2241-205c-4d41-8c57-4dd687ab7ce2" />
+<img width="720" height="416" alt="Velum_mature_early_volcano" src="https://github.com/user-attachments/assets/cea936f5-0735-4b1c-a485-86da520a95ec" />
+<img width="720" height="416" alt="Velum_mature_thin_volcano" src="https://github.com/user-attachments/assets/d0e6128d-55ca-4207-a31b-ad3c33d4ca8b" />
 
 <img width="1920" height="1112" alt="Velum_thin_early_dotplot" src="https://github.com/user-attachments/assets/09a47cd6-dfaf-4db7-9d53-8e4e04fec247" />
 <img width="1920" height="1112" alt="Velum_mature_early_dotplot" src="https://github.com/user-attachments/assets/275ba667-0f10-47ed-a73e-354b65937aa5" />
