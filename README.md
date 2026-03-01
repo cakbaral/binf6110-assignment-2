@@ -9,7 +9,7 @@ Differential expression analysis was conducted on the quantified replicates in R
 
 ## Results
 #### Data structure
-To ensure that interpretations of gene expression differences between developmental stages of Velum were accurate, the data structure of the *S. cerevisiae* I-329 replicates was first evaluated for any major overlaps.  Upon applying PCA analysis for dimensional reduction (Figure 1), the two largest sources of variation were determined to be the developmental stage of Velum and potentially sequence structure of transcriptomes between samples.
+To ensure that interpretations of gene expression differences between developmental stages of Velum were accurate, the data structure of the *S. cerevisiae* I-329 replicates was first evaluated for any major overlaps.  Upon applying PCA analysis for dimensional reduction (Figure 1), the two largest sources of variation appeared to be the developmental stage of Velum and potentially structural differences in transcriptome sequences between samples, though this exact factor was unclear.
 
 <img width="1852" height="935" alt="Velum_PCA_Plot" src="https://github.com/user-attachments/assets/dc4ea8c4-a0b4-46d3-a70e-48e2af02b7d3" />
 
