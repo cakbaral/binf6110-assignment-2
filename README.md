@@ -8,12 +8,12 @@ The raw data for the *Saccharomyces cerevisiae* I-329 strain originated from the
 Differential expression analysis was conducted on the quantified replicates in R (v4.5.2) using the DESeq2 pseudoaligner (v1.50.2) (Love et al., 2014, Rdocumentation, n.d.).  The differences in gene expression were evaluated statistically using pairwise comparisons between experimental groups according to the multiple-comparison adjusted p-values (padj), using the early biofilm as the primary reference (thin vs. early & mature vs. early) and the thin biofilm as the secondary reference (mature vs. thin).  Data structure was assessed using principal component analysis (PCA) for dimensional reduction to explore key sources of variance and determine their size (% variance).  For other visualizations (heat map, MA plot, volcano plot per comparison), shrinkage was also applied to the log2FoldChange (LFC) of genes for each comparison using the ashr shrinkage method (Stephens, 2017).  In particular, for the heatmaps, the top 20 genes were selected based on p-value for visualization.  Lastly, functional annotation and comparison was also conducted in R using the clusterProfiler (v4.18.4), enrichplot (v1.30.4), and org.Sc.sgd.db (v3.22.0) packages (Xu et al., 2024, Yu et al., 2012, Carlson, 2025).  The genes were ranked in order by Wald statistic and analyzed using Gene Ontology (GO)-enriched Fast Gene Set Enrichment Analysis (FGSEA) by biological processes, with a p-value cutoff of 0.05 (Ashburner et al., 2000, The Gene Ontology Consortium, 2025, Thomas et al., 2021, Korotkevich et al., 2016).  Upregulated and downregulated gene sets were compared and visualized separately using dot plots and ridge plots.
 
 ## Results
-# Data structure
+### Data structure
 <img width="1852" height="935" alt="Velum_PCA_Plot" src="https://github.com/user-attachments/assets/dc4ea8c4-a0b4-46d3-a70e-48e2af02b7d3" />
 
 **Figure 1**: PCA plot of *S. cerivisiae* transcriptome data.  Velum biofilm stage (PC1) explained 67% of the variance, while sample structure (PC2) likely explained 26% of the variance.  The replicates were clustered according to the developmental stages of Velum biofilm that they were observed. 
 
-# Differential gene expression between Velum groups
+### Differential gene expression between Velum groups
 <img width="1817" height="842" alt="Velum_thin_early_heatmap" src="https://github.com/user-attachments/assets/b2a7a3a3-08bf-4131-a96c-c00a16b53b76" />
 <img width="1800" height="797" alt="Velum_mature_early_heatmap" src="https://github.com/user-attachments/assets/db419954-5de8-4b4e-bdb9-6a21392beca4" />
 <img width="1782" height="752" alt="Velum_mature_thin_heatmap" src="https://github.com/user-attachments/assets/80ff6a98-5725-4969-83a6-2ac75e32d0aa" />
@@ -36,7 +36,7 @@ Differential expression analysis was conducted on the quantified replicates in R
 <img width="1920" height="1112" alt="Velum_mature_early_dotplot" src="https://github.com/user-attachments/assets/275ba667-0f10-47ed-a73e-354b65937aa5" />
 <img width="1920" height="1112" alt="Velum_mature_thin_dotplot" src="https://github.com/user-attachments/assets/59ed0c12-64c2-41fe-b41b-7a46c4802511" />
 
-# Functional annotation and GO-GSEA comparison
+### Functional annotation and GO-GSEA comparison
 **Figure 5**: Dot plots of Gene Ontology (GO) enrichment terms for Fast Gene Set Enrichment Analysis (FGSEA) for each pairwise comparison: **(a)** thin and early stages, **(b)** mature and early stages, and **(c)** mature and thin stages.  The genes were ranked based on Wald statistic and categorized by Biological Process (BP) ontology.  Each plot is further split into two separate categories to distinguish expression level of terms: activated (for upregulation) and suppressed (for downregulation), relative to the primary (early biofilm) or secondary (thin biofilm) reference.  Dot size reflects the number of genes identified for each term, while dot colour represents the statistical significance according to adjusted p-values, with a cutoff of *padj* < 0.05.  Larger dot coloured in red for a BP term suggest stronger evidence of greater differential expression.
 
 <img width="1920" height="1112" alt="Velum_thin_early_ridgeplot" src="https://github.com/user-attachments/assets/3c4774db-fbfb-435b-80b9-c2f0e56b7f66" />
