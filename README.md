@@ -36,9 +36,13 @@ Differential expression analysis was conducted on the quantified replicates in R
 <img width="1920" height="1112" alt="Velum_mature_early_dotplot" src="https://github.com/user-attachments/assets/275ba667-0f10-47ed-a73e-354b65937aa5" />
 <img width="1920" height="1112" alt="Velum_mature_thin_dotplot" src="https://github.com/user-attachments/assets/59ed0c12-64c2-41fe-b41b-7a46c4802511" />
 
+**Figure 5**: Dot plots of Gene Ontology (GO) enrichment terms for Fast Gene Set Enrichment Analysis (FGSEA) for each pairwise comparison: **(a)** thin and early stages, **(b)** mature and early stages, and **(c)** mature and thin stages.  The genes were ranked based on Wald statistic and categorized by Biological Process (BP) ontology.  Each plot is further split into two separate categories to distinguish expression level of terms: activated (for upregulation) and suppressed (for downregulation), relative to the primary (early biofilm) or secondary (thin biofilm) reference.  Dot size reflects the number of genes identified for each term, while dot colour represents the statistical significance according to adjusted p-values, with a cutoff of *padj* < 0.05.  Larger dot coloured in red for a BP term suggest stronger evidence of greater differential expression.
+
 <img width="1920" height="1112" alt="Velum_thin_early_ridgeplot" src="https://github.com/user-attachments/assets/3c4774db-fbfb-435b-80b9-c2f0e56b7f66" />
 <img width="1920" height="1112" alt="Velum_mature_early_ridgeplot" src="https://github.com/user-attachments/assets/aa0b8bfc-316a-49a3-9802-adef0b0f1cfc" />
 <img width="1920" height="1112" alt="Velum_mature_thin_ridgeplot" src="https://github.com/user-attachments/assets/9fe900b8-af5e-40e4-9598-2ed80b68aaba" />
+
+**Figure 6**: Ridge plots of of Gene Ontology (GO) enrichment terms for Fast Gene Set Enrichment Analysis (FGSEA) for each pairwise comparison: **(a)** thin and early stages, **(b)** mature and early stages, and **(c)** mature and thin stages.  Genes were ranked by Wald statistic and cateogrized by Biological Process (BP) ontology.  The number of genes for each term is represented by ridge size, while ridge colour represents statistical significance according to adjusted p-values, with a cutoff of *padj* < 0.05.  Ridges positioned above 0 indicate upregulated terms relative to the primary (early biofilm) or secondary (thin biofilm) reference, whereas ridges positioned below 0 indicate more downregulated terms.
 
 ## Discussion
 
