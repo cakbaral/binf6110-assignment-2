@@ -9,9 +9,13 @@ Differential expression analysis was conducted on the quantified replicates in R
 
 ## Results
 #### Data structure
+To ensure that interpretations of gene expression differences between developmental stages of Velum were accurate, the data structure of the S. cerevisiae I-329 replicates was first evaluated for any major overlaps.  Upon applying PCA analysis for dimensional reduction (Figure 1), the two largest sources of variation were determined to be the developmental stage of Velum and potentially sequence structure of transcriptomes between samples.
+
 <img width="1852" height="935" alt="Velum_PCA_Plot" src="https://github.com/user-attachments/assets/dc4ea8c4-a0b4-46d3-a70e-48e2af02b7d3" />
 
 **Figure 1**: PCA plot of *S. cerivisiae* transcriptome data.  Velum biofilm stage (PC1) explained 67% of the variance, while sample structure (PC2) likely explained 26% of the variance.  The replicates were clustered according to the developmental stages of Velum biofilm that they were observed. 
+
+Taking a closer look at Figure 1, the replicates appeared to form three distinct clusters with each other, in line with the three stages of Velum development.  The developmental stage (PC1) appeared explain 67% of the variance, while sequence structure (PC2) likely explained 26% of the variance, for a total of 93% variance explained by these components.  The clusters for early and mature biofilm replicates appeared to be more tightly packed, while there was some slight variance/spread in sequence structure for the replicates from the thin biofilm, though not necessarily large enough to warrant concerns of error due to overlap.  This suggested that the replicates were sufficiently differentiated enough between developmental stages of Velum, though they also remained mostly similar to each other in terms of sequence structure, allowing for accurate analysis of differential gene expression.
 
 #### Differential gene expression between Velum groups
 <img width="1817" height="842" alt="Velum_thin_early_heatmap" src="https://github.com/user-attachments/assets/b2a7a3a3-08bf-4131-a96c-c00a16b53b76" />
