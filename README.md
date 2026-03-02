@@ -85,6 +85,8 @@ Legras, J. C., Moreno-Garcia, J., Zara, S., Zara, G., Garcia-Martinez, T., Mauri
 
 Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology*, *15*(12), 550. https://doi.org/10.1186/s13059-014-0550-8
 
+Moreno-Garcia, J., Mauricio, J. C., Moreno, J., & Garcia-Martinez, T. (2016). Stress responsive proteins of a flor yeast strain during the early stages of biofilm formation. *Process Biochemistry*, *51*(5), 578-588. https://doi.org/10.1016/j.procbio.2016.02.011
+
 Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, *14*, 417-419. https://doi.org/10.1038/nmeth.4197
 
 Rdocumentation. (n.d.). results: Extract results from a DESeq analysis. https://www.rdocumentation.org/packages/DESeq2/versions/1.12.3/topics/results
@@ -94,6 +96,8 @@ Saccharomyces Genome Database (2014). *Saccharomyces cerivisiae* - Genome assemb
 Stephens, M. (2017). False discovery rates: a new deal. *Biostatistics*, *18*(2), 275-294. https://doi.org/10.1093/biostatistics/kxw041
 
 Thomas, P. D., Ebert, D., Muruganujan, A., Mushayahama, T., Albou, L. P., & Mi, H. (2021). PANTHER: Making genome‐scale phylogenetics accessible to all. *Protein Science*, *31*(1), 8-22. https://doi.org/10.1002/pro.4218
+
+Treu, L., Campanaro, S., Nadai, C., Toniolo, C., Nardi, T., Giacomini, A., Valle, G., Blondin, B., & Corich, V. (2014). Oxidative stress response and nitrogen utilization are strongly variable in Saccharomyces cerevisiae wine strains with different fermentation performances. *Applied Microbiology and Biotechnology*, *98*, 4119-4135. https://doi.org/10.1007/s00253-014-5679-6
 
 Xu, S., Hu, E., Cai, Y., Xie, Z., Luo, X., Zhan, L., Tang, W., Wang, Q., Liu, B., Wang, R., Xie, W., Wu, T., Xie, L., & Yu, G. (2024). Using clusterProfiler to characterize multiomics data. *Nature Protocols*, *19*, 3292-3320. https://doi.org/10.1038/s41596-024-01020-z
 
