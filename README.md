@@ -69,6 +69,8 @@ Ashburner, M., Ball, C. A., Blake, J. A., Botstein, D., Butler, H., Cherry, J. M
 
 Carlson, M. (2025). org.Sc.sgd.db: Genome wide annotation for Yeast. *Bioconductor*. https://doi.org/doi:10.18129/B9.bioc.org.Sc.sgd.db
 
+Fidalgo, M., Barrales, R. R., Ibeas, J. I., & Jimenez, J. (2006). Adaptive evolution by mutations in the FLO11 gene. *Proceedings of the National Academy of Sciences of the United States of America*, *103*(30), 11228-11233. https://doi.org/10.1073/pnas.0601713103
+
 The Gene Ontology Consortium. (2025). The Gene Ontology knowledgebase in 2026. *Nucleic Acids Research*, *54*(D1), D1779-D1792. https://doi.org/10.1093/nar/gkaf1292
 
 Kishkovskaia, S. A., Eldarov, M. A., Dumina, M. V., Tanashchuk, T. N., Ravin, N. V., & Mardanov, A. V. (2017). Flor yeast strains from culture collection: Genetic diversity and physiological and biochemical properties. *Applied Biochemistry and Microbiology*, *53*, 359–367. https://doi.org/10.1134/S0003683817030085
