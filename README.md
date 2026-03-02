@@ -76,6 +76,8 @@ Albergaria, H. & Arneborg, N. (2016). Dominance of Saccharomyces cerevisiae in a
 
 Ashburner, M., Ball, C. A., Blake, J. A., Botstein, D., Butler, H., Cherry, J. M., Davis, A. P., Dolinski, K., Dwight, S. S., Eppig, J. T., Harris, M. A., Hill, D. P., Issel-Tarver, L., Kasarskis, A., Lewis, S., Matese, J. C., Richardson, J. E., Ringwald, M., Rubin, G. M., & Sherlock, G. (2000). Gene Ontology: tool for the unification of biology. *Nature Genetics*, *25*, 25-29. https://doi.org/10.1038/75556
 
+Bissinger, P. H., Wieser, R., Hamilton, B., & Ruis, H. (2023). Control of Saccharomyces cerevisiae Catalase T Gene (CTT1) Expression by Nutrient Supply via the RAS-Cyclic AMP Pathway. *Molecular and Cellular Biology*, *9*(3), 1309-1315. https://doi.org/10.1128/mcb.9.3.1309-1315.1989
+
 Carlson, M. (2025). org.Sc.sgd.db: Genome wide annotation for Yeast. *Bioconductor*. https://doi.org/doi:10.18129/B9.bioc.org.Sc.sgd.db
 
 Fidalgo, M., Barrales, R. R., Ibeas, J. I., & Jimenez, J. (2006). Adaptive evolution by mutations in the FLO11 gene. *Proceedings of the National Academy of Sciences of the United States of America*, *103*(30), 11228-11233. https://doi.org/10.1073/pnas.0601713103
