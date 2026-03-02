@@ -83,11 +83,14 @@ Korotkevich, G., Sukhov, V., Budin, N., Shpak, B., Artyomov, M. N., & Sergushich
 
 Legras, J. C., Moreno-Garcia, J., Zara, S., Zara, G., Garcia-Martinez, T., Mauricio, J. C., Mannazzu, I., Coi, A. L., Zeidan, M. B., Dequin, S., Moreno, J., & Budroni, M. (2016). Flor Yeast: New Perspectives Beyond Wine Aging. *Frontiers in Microbiology*, *7*, 503. https://doi.org/10.3389/fmicb.2016.00503
 
+Li, D., Zand, M. S., Dye, T. D., Goniewicz, M. L., Rahman, I., & Xie, Z. (2022). An evaluation of RNA-seq differential analysis methods.  *PLOS One*, *17*(9), e0264246. https://doi.org/10.1371/journal.pone.0264246
+
 Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology*, *15*(12), 550. https://doi.org/10.1186/s13059-014-0550-8
 
 Maneira, C., Chamas, A., & Lackner, G. (2025). Engineering Saccharomyces cerevisiae for medical applications. *Microbial Cell Factories*, *24*, 12. https://doi.org/10.1186/s12934-024-02625-5
 
 Mardanov, A. V., Eldarov, M. A., Beletsky, A. V., Tanashchuk, T. N., Kishkovskaya, S. A., & Ravin, N. V. (2020). Transcriptome Profile of Yeast Strain Used for Biological Wine Aging Revealed Dynamic Changes of Gene Expression in Course of Flor Development. *Frontiers in Microbiology*, *11*:538. https://doi.org/10.3389/fmicb.2020.00538
+
 Moreno-Garcia, J., Mauricio, J. C., Moreno, J., & Garcia-Martinez, T. (2016). Stress responsive proteins of a flor yeast strain during the early stages of biofilm formation. *Process Biochemistry*, *51*(5), 578-588. https://doi.org/10.1016/j.procbio.2016.02.011
 
 Mardanov, A. V., Gruzdev, E. V., Beletsky, A. V., Ivanova, E. V., Shalamitskiy, M. Y., Tanashchuk, T. N., & Ravin, N. V. (2023). Microbial Communities of Flor Velums and the Genetic Stability of Flor Yeasts Used for a Long Time for the Industrial Production of Sherry-like Wines. *Fermentation*. *9*(4), 367. https://doi.org/10.3390/fermentation9040367
@@ -105,5 +108,7 @@ Thomas, P. D., Ebert, D., Muruganujan, A., Mushayahama, T., Albou, L. P., & Mi, 
 Treu, L., Campanaro, S., Nadai, C., Toniolo, C., Nardi, T., Giacomini, A., Valle, G., Blondin, B., & Corich, V. (2014). Oxidative stress response and nitrogen utilization are strongly variable in Saccharomyces cerevisiae wine strains with different fermentation performances. *Applied Microbiology and Biotechnology*, *98*, 4119-4135. https://doi.org/10.1007/s00253-014-5679-6
 
 Xu, S., Hu, E., Cai, Y., Xie, Z., Luo, X., Zhan, L., Tang, W., Wang, Q., Liu, B., Wang, R., Xie, W., Wu, T., Xie, L., & Yu, G. (2024). Using clusterProfiler to characterize multiomics data. *Nature Protocols*, *19*, 3292-3320. https://doi.org/10.1038/s41596-024-01020-z
+
+Wu, D. C., Yao, J., Ho, K. S., Lambowitz, A. M., & Wilke, C. O. (2018). Limitations of alignment-free tools in total RNA-seq quantification. *BMC Genomics*, *19*, 510. https://doi.org/10.1186/s12864-018-4869-5
 
 Yu, G., Wang, L. G., Han, Y., & He, Q. Y. (2012). clusterProfiler: an R Package for Comparing Biological Themes Among Gene Clusters. *OMICS: A Journal of Integrative Biology*, *16*(5), 284-287. https://doi.org/10.1089/omi.2011.0118
