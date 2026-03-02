@@ -94,6 +94,8 @@ Kishkovskaia, S. A., Eldarov, M. A., Dumina, M. V., Tanashchuk, T. N., Ravin, N.
 
 Korotkevich, G., Sukhov, V., Budin, N., Shpak, B., Artyomov, M. N., & Sergushichev, A. (2016). Fast gene set enrichment analysis [Preprint]. *bioRxiv*, 060012. https://doi.org/10.1101/060012
 
+Lairon-Paris, M., Routledge, S. J., Linney, J. A., Alonso-del-Real, J., Spickett, C. M., Pitt, A. R., Guillamon, J. M., Barrio, E., Goddard, A. D., & Querol, A. (2021). Lipid Composition Analysis Reveals Mechanisms of Ethanol Tolerance in the Model Yeast Saccharomyces cerevisiae. *Applied and Environmental Microbiology*, *87*(12), e00440-21. https://doi.org/10.1128/AEM.00440-21
+
 Legras, J. C., Moreno-Garcia, J., Zara, S., Zara, G., Garcia-Martinez, T., Mauricio, J. C., Mannazzu, I., Coi, A. L., Zeidan, M. B., Dequin, S., Moreno, J., & Budroni, M. (2016). Flor Yeast: New Perspectives Beyond Wine Aging. *Frontiers in Microbiology*, *7*, 503. https://doi.org/10.3389/fmicb.2016.00503
 
 Li, D., Zand, M. S., Dye, T. D., Goniewicz, M. L., Rahman, I., & Xie, Z. (2022). An evaluation of RNA-seq differential analysis methods.  *PLOS One*, *17*(9), e0264246. https://doi.org/10.1371/journal.pone.0264246
