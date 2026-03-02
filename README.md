@@ -80,6 +80,8 @@ Ashburner, M., Ball, C. A., Blake, J. A., Botstein, D., Butler, H., Cherry, J. M
 
 Bissinger, P. H., Wieser, R., Hamilton, B., & Ruis, H. (2023). Control of Saccharomyces cerevisiae Catalase T Gene (CTT1) Expression by Nutrient Supply via the RAS-Cyclic AMP Pathway. *Molecular and Cellular Biology*, *9*(3), 1309-1315. https://doi.org/10.1128/mcb.9.3.1309-1315.1989
 
+Bossinger, J., Lawther, R. P., & Cooper, T. G. (1974). Nitrogen Repression of the Allantoin Degradative Enzymes in Saccharomyces cerevisiae. *Journal of Bacteriology*, *118*(3), 821-829. https://doi.org/10.1128/jb.118.3.821-829.1974
+
 Carlson, M. (2025). org.Sc.sgd.db: Genome wide annotation for Yeast. *Bioconductor*. https://doi.org/doi:10.18129/B9.bioc.org.Sc.sgd.db
 
 Cherry, J. M., Hong, E. L., Amundsen, C., Balakrishnan, R., Binkley, G., Chan, E. T., Christie, K. R., Costanzo, Dwight, S. S., Engel, S. R., Fisk, D. G., Hirschman, J. E., Hitz, B. C., Karra, K., Krieger, C. J., Miyasato, S. R., Nash, R. S., Park, J., Skrzypek, M. S., Simison, M., Weng, S., & Wong, E. D. (2011). Saccharomyces Genome Database: the genomics resource of budding yeast. *Nucleic Acids Research*, *40*(D1), D700-D705. https://doi.org/10.1093/nar/gkr1029
@@ -121,6 +123,8 @@ Mardanov, A. V., Gruzdev, E. V., Beletsky, A. V., Ivanova, E. V., Shalamitskiy, 
 Nasution, O., Lee, Y. M., Kim, E., Lee, Y., Kim, W., & Choi, W. (2017). Overexpression of OLE1 Enhances StressTolerance and Constitutively Activates the MAPK HOG Pathway in Saccharomyces cerevisiae. *Biotechnology and Bioengineering*, *114*(3), 620-631. https://doi.org/10.1002%2Fbit.26093
 
 Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, *14*, 417-419. https://doi.org/10.1038/nmeth.4197
+
+Rai, R., Genbauffe, F. S., & Cooper, T. G. (1988). Structure and transcription of the allantoate permease gene (DAL5) from Saccharomyces cerevisiae. *Journal of Bacteriology*, *170*(1), 266-271. https://doi.org/10.1128/jb.170.1.266-271.1988
 
 Rdocumentation. (n.d.). results: Extract results from a DESeq analysis. https://www.rdocumentation.org/packages/DESeq2/versions/1.12.3/topics/results
 
