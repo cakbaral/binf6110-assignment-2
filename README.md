@@ -62,6 +62,8 @@ All these observations of the GO-GSEA comparison were then further validated usi
 ## Discussion
 
 ## References
+Albergaria, H. & Arneborg, N. (2016). Dominance of Saccharomyces cerevisiae in alcoholic fermentation processes: role of physiological fitness and microbial interactions. *Applied Microbiology and Biotechnology*, *100*, 2035-2046. https://doi.org/10.1007/s00253-015-7255-0
+
 Ashburner, M., Ball, C. A., Blake, J. A., Botstein, D., Butler, H., Cherry, J. M., Davis, A. P., Dolinski, K., Dwight, S. S., Eppig, J. T., Harris, M. A., Hill, D. P., Issel-Tarver, L., Kasarskis, A., Lewis, S., Matese, J. C., Richardson, J. E., Ringwald, M., Rubin, G. M., & Sherlock, G. (2000). Gene Ontology: tool for the unification of biology. *Nature Genetics*, *25*, 25-29. https://doi.org/10.1038/75556
 
 Carlson, M. (2025). org.Sc.sgd.db: Genome wide annotation for Yeast. *Bioconductor*. https://doi.org/doi:10.18129/B9.bioc.org.Sc.sgd.db
