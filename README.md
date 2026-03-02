@@ -81,6 +81,8 @@ Institute of Bioengineering, Research Center of Biotechnology of RAS. (2019). Sa
 
 Korotkevich, G., Sukhov, V., Budin, N., Shpak, B., Artyomov, M. N., & Sergushichev, A. (2016). Fast gene set enrichment analysis [Preprint]. *bioRxiv*, 060012. https://doi.org/10.1101/060012
 
+Legras, J. C., Moreno-Garcia, J., Zara, S., Zara, G., Garcia-Martinez, T., Mauricio, J. C., Mannazzu, I., Coi, A. L., Zeidan, M. B., Dequin, S., Moreno, J., & Budroni, M. (2016). Flor Yeast: New Perspectives Beyond Wine Aging. *Frontiers in Microbiology*, *7*, 503. https://doi.org/10.3389/fmicb.2016.00503
+
 Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology*, *15*(12), 550. https://doi.org/10.1186/s13059-014-0550-8
 
 Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, *14*, 417-419. https://doi.org/10.1038/nmeth.4197
