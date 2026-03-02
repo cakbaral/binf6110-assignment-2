@@ -86,6 +86,8 @@ Fidalgo, M., Barrales, R. R., Ibeas, J. I., & Jimenez, J. (2006). Adaptive evolu
 
 The Gene Ontology Consortium. (2025). The Gene Ontology knowledgebase in 2026. *Nucleic Acids Research*, *54*(D1), D1779-D1792. https://doi.org/10.1093/nar/gkaf1292
 
+Higgins, V. J., Beckhouse, A. G., Oliver, A. D., Rogers, P. J., & Dawes, I. W. (2003). Yeast Genome-Wide Expression Analysis Identifies a Strong Ergosterol and Oxidative Stress Response during the Initial Stages of an Industrial Lager Fermentation. *Applied and Environmental Microbiology*, *69*(8), 4777-4787. https://doi.org/10.1128/AEM.69.8.4777-4787.2003
+
 Hohmann, S. (1991). Characterization of PDC6, a Third Structural Gene for Pyruvate Decarboxylase in Saccharomyces cerevisiae. *Journal of Bacteriology*, *173*(24), 7963-7969. https://doi.org/10.1128/jb.173.24.7963-7969.1991
 
 Institute of Bioengineering, Research Center of Biotechnology of RAS. (2019). Saccharomyces cerevisiae strain:I-329 (brewer's yeast). *NCBI*. https://www.ncbi.nlm.nih.gov/bioproject/PRJNA592304
