@@ -73,13 +73,9 @@ Fidalgo, M., Barrales, R. R., Ibeas, J. I., & Jimenez, J. (2006). Adaptive evolu
 
 The Gene Ontology Consortium. (2025). The Gene Ontology knowledgebase in 2026. *Nucleic Acids Research*, *54*(D1), D1779-D1792. https://doi.org/10.1093/nar/gkaf1292
 
-Kishkovskaia, S. A., Eldarov, M. A., Dumina, M. V., Tanashchuk, T. N., Ravin, N. V., & Mardanov, A. V. (2017). Flor yeast strains from culture collection: Genetic diversity and physiological and biochemical properties. *Applied Biochemistry and Microbiology*, *53*, 359–367. https://doi.org/10.1134/S0003683817030085
-
-Maneira, C., Chamas, A., & Lackner, G. (2025). Engineering Saccharomyces cerevisiae for medical applications. *Microbial Cell Factories*, *24*, 12. https://doi.org/10.1186/s12934-024-02625-5
-
-Mardanov, A. V., Eldarov, M. A., Beletsky, A. V., Tanashchuk, T. N., Kishkovskaya, S. A., & Ravin, N. V. (2020). Transcriptome Profile of Yeast Strain Used for Biological Wine Aging Revealed Dynamic Changes of Gene Expression in Course of Flor Development. *Frontiers in Microbiology*, *11*:538. https://doi.org/10.3389/fmicb.2020.00538
-
 Institute of Bioengineering, Research Center of Biotechnology of RAS. (2019). Saccharomyces cerevisiae strain:I-329 (brewer's yeast). *NCBI*. https://www.ncbi.nlm.nih.gov/bioproject/PRJNA592304
+
+Kishkovskaia, S. A., Eldarov, M. A., Dumina, M. V., Tanashchuk, T. N., Ravin, N. V., & Mardanov, A. V. (2017). Flor yeast strains from culture collection: Genetic diversity and physiological and biochemical properties. *Applied Biochemistry and Microbiology*, *53*, 359–367. https://doi.org/10.1134/S0003683817030085
 
 Korotkevich, G., Sukhov, V., Budin, N., Shpak, B., Artyomov, M. N., & Sergushichev, A. (2016). Fast gene set enrichment analysis [Preprint]. *bioRxiv*, 060012. https://doi.org/10.1101/060012
 
@@ -87,7 +83,12 @@ Legras, J. C., Moreno-Garcia, J., Zara, S., Zara, G., Garcia-Martinez, T., Mauri
 
 Love, M. I., Huber, W., & Anders, S. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. *Genome Biology*, *15*(12), 550. https://doi.org/10.1186/s13059-014-0550-8
 
+Maneira, C., Chamas, A., & Lackner, G. (2025). Engineering Saccharomyces cerevisiae for medical applications. *Microbial Cell Factories*, *24*, 12. https://doi.org/10.1186/s12934-024-02625-5
+
+Mardanov, A. V., Eldarov, M. A., Beletsky, A. V., Tanashchuk, T. N., Kishkovskaya, S. A., & Ravin, N. V. (2020). Transcriptome Profile of Yeast Strain Used for Biological Wine Aging Revealed Dynamic Changes of Gene Expression in Course of Flor Development. *Frontiers in Microbiology*, *11*:538. https://doi.org/10.3389/fmicb.2020.00538
 Moreno-Garcia, J., Mauricio, J. C., Moreno, J., & Garcia-Martinez, T. (2016). Stress responsive proteins of a flor yeast strain during the early stages of biofilm formation. *Process Biochemistry*, *51*(5), 578-588. https://doi.org/10.1016/j.procbio.2016.02.011
+
+Mardanov, A. V., Gruzdev, E. V., Beletsky, A. V., Ivanova, E. V., Shalamitskiy, M. Y., Tanashchuk, T. N., & Ravin, N. V. (2023). Microbial Communities of Flor Velums and the Genetic Stability of Flor Yeasts Used for a Long Time for the Industrial Production of Sherry-like Wines. *Fermentation*. *9*(4), 367. https://doi.org/10.3390/fermentation9040367
 
 Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. *Nature Methods*, *14*, 417-419. https://doi.org/10.1038/nmeth.4197
 
