@@ -79,6 +79,8 @@ The Gene Ontology Consortium. (2025). The Gene Ontology knowledgebase in 2026. *
 
 Institute of Bioengineering, Research Center of Biotechnology of RAS. (2019). Saccharomyces cerevisiae strain:I-329 (brewer's yeast). *NCBI*. https://www.ncbi.nlm.nih.gov/bioproject/PRJNA592304
 
+Khatri, P. & Drăghici, S. (2005). Ontological analysis of gene expression data: current tools, limitations, and open problems. *Bioinformatics*, *21*(18), 3587-3595. https://doi.org/10.1093/bioinformatics/bti565
+
 Kishkovskaia, S. A., Eldarov, M. A., Dumina, M. V., Tanashchuk, T. N., Ravin, N. V., & Mardanov, A. V. (2017). Flor yeast strains from culture collection: Genetic diversity and physiological and biochemical properties. *Applied Biochemistry and Microbiology*, *53*, 359–367. https://doi.org/10.1134/S0003683817030085
 
 Korotkevich, G., Sukhov, V., Budin, N., Shpak, B., Artyomov, M. N., & Sergushichev, A. (2016). Fast gene set enrichment analysis [Preprint]. *bioRxiv*, 060012. https://doi.org/10.1101/060012
