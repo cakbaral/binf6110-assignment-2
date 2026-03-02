@@ -98,6 +98,8 @@ Maneira, C., Chamas, A., & Lackner, G. (2025). Engineering Saccharomyces cerevis
 
 Mardanov, A. V., Eldarov, M. A., Beletsky, A. V., Tanashchuk, T. N., Kishkovskaya, S. A., & Ravin, N. V. (2020). Transcriptome Profile of Yeast Strain Used for Biological Wine Aging Revealed Dynamic Changes of Gene Expression in Course of Flor Development. *Frontiers in Microbiology*, *11*:538. https://doi.org/10.3389/fmicb.2020.00538
 
+Moreno-Garcia, J., Garcia-Martinez, T., Moreno, J., Millan, M. C., & Mauricio, J. C. (2014). A proteomic and metabolomic approach for understanding the role of the flor yeast mitochondria in the velum formation. *172*, 21-29. https://doi.org/10.1016/j.ijfoodmicro.2013.11.030
+
 Moreno-Garcia, J., Mauricio, J. C., Moreno, J., & Garcia-Martinez, T. (2016). Stress responsive proteins of a flor yeast strain during the early stages of biofilm formation. *Process Biochemistry*, *51*(5), 578-588. https://doi.org/10.1016/j.procbio.2016.02.011
 
 Mardanov, A. V., Gruzdev, E. V., Beletsky, A. V., Ivanova, E. V., Shalamitskiy, M. Y., Tanashchuk, T. N., & Ravin, N. V. (2023). Microbial Communities of Flor Velums and the Genetic Stability of Flor Yeasts Used for a Long Time for the Industrial Production of Sherry-like Wines. *Fermentation*. *9*(4), 367. https://doi.org/10.3390/fermentation9040367
